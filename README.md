@@ -1,6 +1,16 @@
 # Template next.js
 
-This project is a template for a Next.js application. It includes several features to help you get started with your Next.js project.
+This project is a template for a Next.js application. It includes several features to help you get started with your Next.js project with nextauth and prisma.
+
+## Table of Contents
+
+- [Table of Contents](#table-of-contents)
+- [Features](#features)
+- [Installation](#installation)
+- [Prisma Installation](#prisma-installation)
+- [Special Thanks](#special-thanks)
+- [License](#license)
+- [Pull Requests](#pull-requests)
 
 ## Features
 
@@ -72,3 +82,15 @@ npx prisma generate
 5. Now, you can use Prisma Client in your code to interact with your database.
 
 Please replace <project-directory> with your actual project directory name.
+
+## Special Thanks
+
+[Melvynx](https://www.youtube.com/watch?v=LaMoteg626I)
+
+## License
+
+This project is licensed under the MIT license. Please read the [LICENSE](LICENSE) file for more details.
+
+## Pull Requests
+
+I welcome and encourage all pull requests.
